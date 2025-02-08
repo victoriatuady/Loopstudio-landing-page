@@ -399,6 +399,7 @@ header {
 
   .btn-desktop {
     display: block;
+    cursor: pointer;
   }
 
   .btn-mobile {
