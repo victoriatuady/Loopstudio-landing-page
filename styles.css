@@ -313,17 +313,18 @@ footer {
 }
 
 @media screen and (min-width: 1024px) {
-  /* || HEADER STYLES */
-  .burger-btn {
-    display: none;
-  }
-
+  /* || JS class styles */
   .close-btn.show {
     display: none;
   }
 
   .header-nav.bg {
     background-color: transparent;
+  }
+
+  /* || HEADER STYLES */
+  .burger-btn {
+    display: none;
   }
 
   header {
