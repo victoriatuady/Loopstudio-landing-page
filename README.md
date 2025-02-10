@@ -25,6 +25,7 @@ Users should be able to:
 
 ![Mobile View](./designs/mobile-view.png)
 ![Tablet View](./designs/tablet-view.png)
+![Mobile Nav View](./designs/mobile-nav-view.png)
 ![Desktop View](./designs/desktop-view.png)
 
 ### Links
